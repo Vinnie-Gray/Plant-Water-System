@@ -9,4 +9,4 @@ The first part of this project we had to set up the water pump and the moisture 
 # Who Are We? 
 * Vincent Gray - Freshman Electrical Engineering Major- Water Pump Subsystem Developer
 * Noah Malik - Freshman Computer Engineering Major- Sensor Subsystem Developer
-* Project Stakeholders - This Project was developed for anyone that always struggles with keeping their plants alive. The automatic plant watering system will be the solution to your plants always drying up and dying. This system will ensure your plant will recieve the proper ammount of water it needs to survive. 
+* Project Stakeholders - This system was developed for anyone that always struggles with keeping their plants alive. The automatic plant watering system will be the solution to your plants always drying up and dying. This system will ensure your plant will recieve the proper ammount of water it needs to survive. 
