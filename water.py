@@ -35,7 +35,7 @@ while True:
     
     if moisture_level_percentage < 55:
         relay.value(1)  # Turn on the relay (high trigger)
-        utime.sleep(5)  # Keep it on for 5 seconds
+        utime.sleep(2)  # Keep it on for 2 seconds
         relay.value(0)  # Turn off the relay (low trigger)
     
     utime.sleep(10)
